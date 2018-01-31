@@ -41,7 +41,6 @@
     -webkit-column-count: 2;
     column-count: 2;
   }
-
 }
 
 @media only screen and (max-width: 800px) {
@@ -56,5 +55,4 @@
       margin-left: 0;
       float: none;
   }
-  
 }
